@@ -6,16 +6,16 @@
 网络数据加载：支持从JSON格式文件加载道路网络和出行需求数据
 
 多种分配算法：
-  全有全无分配 (All-or-Nothing,AON)
-  增量分配 (Incremental Assignment)
-  基于 Frank-Wolfe 算法的用户均衡分配 (User Equilibrium)
+  全有全无分配 (All-or-Nothing,AON)；
+  增量分配 (Incremental Assignment)；
+  基于 Frank-Wolfe 算法的用户均衡分配 (User Equilibrium)；
   路径分析：Dijkstra 算法寻找最短路径，支持考虑/不考虑拥堵效应
 
 结果可视化：
-  网络结构图
-  流量分配图
-  算法对比图
-  收敛曲线图
+  网络结构图；
+  流量分配图；
+  算法对比图；
+  收敛曲线图；
 定量评估：计算路网总出行时间，评估分配效率
 
 模块文件	                              功能描述
